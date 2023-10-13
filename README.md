@@ -13,6 +13,6 @@ I am Brazilian with a degree in Food Engineering and also with a postgraduate de
           
 <div>
 <a href="https://github.com/Zanette93">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zanette93&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Zanette93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>

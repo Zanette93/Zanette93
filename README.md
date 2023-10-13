@@ -5,7 +5,7 @@ I am Brazilian with a degree in Food Engineering and also with a postgraduate de
 
 
 ### Ferramentas e Tecnologias 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
 
 ### Contatos

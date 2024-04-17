@@ -1,7 +1,10 @@
 # Hi there, I'm João (John)! 👋
 ## Welcome to my profile
 
-I am Brazilian with a degree in Food Engineering and also with a postgraduate degree in People Management. After 5 years of working in Food Industries as a Production Supervisor I decided to face the challenge of entering the technology field! I'm at the beginning of my studies and I want to make my dream come true by working in this area, being a collaborative user as soon as I acquire a little more knowledge. I'm open to work and learning opportunities!
+Sou brasileiro, formado em Engenharia de Alimentos e também com pós-graduação em Gestão de Pessoas. Após 5 anos trabalhando em Indústrias de Alimentos como Supervisor de Produção decidi encarar o desafio de entrar na área de tecnologia! Quero realizar meu sonho trabalhando nessa área, sendo um usuário colaborativo assim que adquirir um pouco mais de conhecimento. Estou aberto a oportunidades de trabalho e aprendizado!
+Meu foco será em Análise de Dados.
+
+I am Brazilian with a degree in Food Engineering and also with a postgraduate degree in People Management. After 5 years of working in Food Industries as a Production Supervisor I decided to face the challenge of entering the technology field! I want to make my dream come true by working in this area, being a collaborative user as soon as I acquire a little more knowledge. I'm open to work and learning opportunities!
 My focus will be on Data Analysis.
 
 
